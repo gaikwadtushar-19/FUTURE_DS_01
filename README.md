@@ -9,37 +9,37 @@ This project focuses on analyzing business sales data to uncover revenue pattern
 🎯 Business Objective
 
 The goal of this analysis is to:
--Track overall revenue performance
--Identify top revenue-generating products
--Analyze monthly sales trends
--Evaluate country-wise revenue distribution
--Understand customer contribution patterns
--The dashboard provides an intuitive and decision-ready view of business performance.
+- Track overall revenue performance
+- Identify top revenue-generating products
+- Analyze monthly sales trends
+- Evaluate country-wise revenue distribution
+- Understand customer contribution patterns
+- The dashboard provides an intuitive and decision-ready view of business performance.
 
 📊 What This Dashboard Delivers 🔢 KPI Overview
 
-*Total Revenue
-*Total Orders
-*Total Customers
-*Total Quantity Sold
-*Average Order Value
+* Total Revenue
+* Total Orders
+* Total Customers
+* Total Quantity Sold
+* Average Order Value
 
 📈 Performance Insights
 
-*Revenue Trend Over Time
-*Top 10 Products by Revenue
-*Revenue by Country (Geographical Analysis)
-*Customer Revenue Distribution
-*Orders vs Revenue Relationship
-*Quantity vs Revenue Comparison
+* Revenue Trend Over Time
+* Top 10 Products by Revenue
+* Revenue by Country (Geographical Analysis)
+* Customer Revenue Distribution
+* Orders vs Revenue Relationship
+* Quantity vs Revenue Comparison
 
 💡 Key Insights
 
-*Revenue is concentrated among a small group of high-performing products
-*Certain countries contribute significantly higher revenue
-*High-value customers drive a major portion of total sales
-*Revenue growth patterns indicate seasonal or periodic trends
-*Sales quantity does not always directly correlate with revenue 
+* Revenue is concentrated among a small group of high-performing products
+* Certain countries contribute significantly higher revenue
+* High-value customers drive a major portion of total sales
+* Revenue growth patterns indicate seasonal or periodic trends
+* Sales quantity does not always directly correlate with revenue 
 
 🛠 Tools Used
 
