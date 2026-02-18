@@ -1,6 +1,6 @@
 🚀 FUTURE_DS_01 | Sales Insights Dashboard
 
-A modern, interactive Power BI dashboard designed to transform raw retail data into actionable business insights.
+A business-focused Power BI dashboard designed to analyze sales performance, revenue trends, and customer contribution using retail transaction data.
 
 📌 About This Project
 
